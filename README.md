@@ -21,4 +21,4 @@
 | Comando alias | Descripción                                         |
 ----------------|-----------------------------------------------------|
 | g = git       | Ver los cambios de un archivo                       |
-| ga = git add  | Incluir los cambios del archivo al sigienmte commit |
+| ga = git add  | Incluir los cambios del archivo al siguiente commit |
